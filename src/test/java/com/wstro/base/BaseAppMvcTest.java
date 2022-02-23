@@ -26,6 +26,7 @@ public abstract class BaseAppMvcTest extends BaseAppTest {
 //    @BeforeClass
     public void setUp() throws Exception {
         mvc = MockMvcBuilders.webAppContextSetup(webApplicationContext).build();
+        //fdasfads
     }
 
 }
