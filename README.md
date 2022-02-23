@@ -1,14 +1,6 @@
 # SpringBoot集成MyBatisPlus
 
 
-### 纯jar包集成SpringBoot请参考：[bootplus](https://github.com/JoeyBling/bootplus)
-
-> **GitHub：[https://github.com/JoeyBling/SpringBoot_MyBatisPlus](https://github.com/JoeyBling/SpringBoot_MyBatisPlus)**
-
-> **码云：[https://gitee.com/zhousiwei/springboot_mybatisplus](https://gitee.com/zhousiwei/springboot_mybatisplus)**
-
-> **欢迎使用和Star支持，如使用过程中碰到问题，可以提出Issue，我会尽力完善**
-
 ### 项目结构
 
 --------------------------------------------
@@ -74,12 +66,3 @@ wstro
 - 项目访问路径：http://localhost/admin
 - 账号密码：**admin/admin**
 - 多数据源配置：需要自己实现，参考`DataSourceConfig.java`
-
-### 演示效果图：
---------------------------------------------
-![](https://images.gitee.com/uploads/images/2019/0308/142257_190114f4_1251167.png "Swagger管理")
-![](https://images.gitee.com/uploads/images/2019/0308/142257_ca1ca7bb_1251167.png "菜单管理")
-![](https://images.gitee.com/uploads/images/2019/0308/142256_080fd2e4_1251167.png "新建用户")
-![](https://images.gitee.com/uploads/images/2019/0308/142257_4e58e80c_1251167.png "新建角色")
-![](https://images.gitee.com/uploads/images/2019/0308/142257_b87a3779_1251167.png "新建菜单")
-![](https://images.gitee.com/uploads/images/2019/0308/142257_3b6c2e24_1251167.png "用户信息")
